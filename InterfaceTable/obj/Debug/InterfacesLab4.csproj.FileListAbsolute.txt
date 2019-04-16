@@ -1,0 +1,36 @@
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.exe.config
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.exe
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.pdb
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfacesLab4.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.MainForm.resources
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Properties.Resources.resources
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.SignaturesFrom.resources
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfacesLab4.csproj.GenerateResource.Cache
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.exe
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.pdb
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Reference.resources
+C:\Users\Mikhail\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Revenue.resources
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.MainForm.resources
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Properties.Resources.resources
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Reference.resources
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Revenue.resources
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.SignaturesFrom.resources
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfacesLab4.csproj.GenerateResource.cache
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.exe
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.pdb
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.exe.config
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.exe
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.pdb
+C:\Users\Vladimir\Desktop\InterfaceTable\InterfaceTable\obj\Debug\InterfacesLab4.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.exe.config
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.exe
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.pdb
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.exe
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\bin\Debug\InterfaceTable.pdb
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfacesLab4.csprojResolveAssemblyReference.cache
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.MainForm.resources
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Properties.Resources.resources
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Reference.resources
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.Revenue.resources
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfaceTable.SignaturesFrom.resources
+C:\Users\Mikhail\Documents\Политех 4 курс (2 семестр)\Интерфейсы\InterfaceTable\InterfaceTable\obj\Debug\InterfacesLab4.csproj.GenerateResource.Cache
